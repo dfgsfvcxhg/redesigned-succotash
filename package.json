@@ -1,0 +1,16 @@
+ 
+{
+  "name": "mafikfurry",
+  "version": "1.0.0",
+  "main": "a.js",
+  "scripts": {
+    "run": "chmod +x ./uwu && ./uwu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express"
+  }
+}
