@@ -11,6 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express"
+    "axios": "^1.2.2",
   }
 }
